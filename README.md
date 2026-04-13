@@ -13,7 +13,7 @@ This portfolio highlights my proficiency in the following technologies:
 * **Programming Languages:** Java (Object-Oriented Scripting)
 * **Testing Frameworks:** TestNG (Execution & Assertions)
 * **Build & Dependency Management:** Maven
-* **API Testing:** Postman & REST Assured (Integrated in specialized suites)
+
 
 ## 📋 Automation Objectives
 The scripts included here are designed to cover critical business paths, such as:
