@@ -1,21 +1,23 @@
-# 🚀 OrangeHRM Automation Testing Suite
+# 🚀 Software Automation Testing Portfolio
 
-This repository showcases a functional automation framework designed for the **OrangeHRM** application. The primary goal of this project is to demonstrate an efficient and scalable approach to automated web testing, ensuring that core business workflows are reliable and defect-free.
+Welcome to my automation testing repository. This project serves as a comprehensive showcase of my technical capabilities in **Software Quality Assurance**, specifically focusing on web automation and framework development.
 
-## 🌟 Project Overview
-This project automates critical end-to-end scenarios of the OrangeHRM platform. By leveraging **Selenium WebDriver**, the suite simulates real user interactions to validate the stability of the application’s UI and backend integration. 
+## 📖 General Overview
+The goal of this repository is to demonstrate how automated testing can improve software reliability and speed up the release cycle. By simulating real-world user interactions, these scripts validate core functionalities, ensuring that the applications remain stable even after continuous updates.
 
-The framework is built with a focus on **reusability** and **maintainability**, following industry-standard practices to handle dynamic web elements and complex test synchronization.
+Each project within this repository is built with a focus on **clean code**, **maintainability**, and **industry-standard automation patterns**.
 
-## 🛠️ Technical Implementation
-* **Language:** Developed using **Java** for robust object-oriented scripting.
-* **Core Tool:** Powered by **Selenium WebDriver** for browser automation.
-* **Test Engine:** Integrated with **TestNG** for advanced test execution, assertions, and reporting.
-* **Build Management:** Managed via **Maven** for seamless dependency handling and project lifecycle control.
+## 🛠️ Core Technical Competencies
+This portfolio highlights my proficiency in the following technologies:
+* **Automation Tools:** Selenium WebDriver (Web UI Testing)
+* **Programming Languages:** Java (Object-Oriented Scripting)
+* **Testing Frameworks:** TestNG (Execution & Assertions)
+* **Build & Dependency Management:** Maven
+* **API Testing:** Postman & REST Assured (Integrated in specialized suites)
 
-## 📋 Key Scenarios Automated
-* **Authentication Flow:** End-to-end validation of secure login and logout processes.
-* **PIM & Employee Management:** Automation of employee data entry, search filters, and record management.
-* **Functional Integrity:** Verification of dashboard components and critical navigation paths to ensure a seamless user experience.
-
----
+## 📋 Automation Objectives
+The scripts included here are designed to cover critical business paths, such as:
+* **End-to-End User Workflows:** Automating complex journeys from login to data submission and logout.
+* **Data-Driven Testing:** Validating multiple sets of data to ensure application robustness.
+* **Regression Testing:** Rapidly verifying that new changes do not break existing features.
+* **Element Handling:** Efficiently managing dynamic web elements and synchronization using advanced wait strategies.
